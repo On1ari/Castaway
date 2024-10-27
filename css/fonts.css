@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "DM SANS";
+  font-weight: 400;
+  font-style: normal;
+  src: local("DM SANS"),
+      url("../fonts/DMSans-Regular.eot") format('eot'),
+      url("../fonts/DMSans-Regular.woff") format('woff'),
+      url("../fonts/DMSans-Regular.woff2") format('woff2');
+  font-display: swap;
+}
+@font-face {
+  font-family: "DM SANS";
+  font-weight: 700;
+  font-style: normal;
+  src: local("DM SANS"),
+      url("../fonts/DMSans-Bold.eot") format('eot'),
+      url("../fonts/DMSans-Bold.woff") format('woff'),
+      url("../fonts/DMSans-Bold.woff2") format('woff2');
+  font-display: swap;
+}
